@@ -1,0 +1,7 @@
+D:\mphasis\assignments\day6\Assignment10\ConAppass10 jaggedarray\ConAppass10 jaggedarray\bin\Debug\ConAppass10 jaggedarray.exe.config
+D:\mphasis\assignments\day6\Assignment10\ConAppass10 jaggedarray\ConAppass10 jaggedarray\bin\Debug\ConAppass10 jaggedarray.exe
+D:\mphasis\assignments\day6\Assignment10\ConAppass10 jaggedarray\ConAppass10 jaggedarray\bin\Debug\ConAppass10 jaggedarray.pdb
+D:\mphasis\assignments\day6\Assignment10\ConAppass10 jaggedarray\ConAppass10 jaggedarray\obj\Debug\ConAppass10 jaggedarray.csproj.AssemblyReference.cache
+D:\mphasis\assignments\day6\Assignment10\ConAppass10 jaggedarray\ConAppass10 jaggedarray\obj\Debug\ConAppass10 jaggedarray.csproj.CoreCompileInputs.cache
+D:\mphasis\assignments\day6\Assignment10\ConAppass10 jaggedarray\ConAppass10 jaggedarray\obj\Debug\ConAppass10 jaggedarray.exe
+D:\mphasis\assignments\day6\Assignment10\ConAppass10 jaggedarray\ConAppass10 jaggedarray\obj\Debug\ConAppass10 jaggedarray.pdb
